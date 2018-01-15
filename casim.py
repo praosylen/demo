@@ -212,8 +212,8 @@ class CellularAutomaton:
                     else:
                         tempgrid[q] = 1
         elif self.dims == 1:
-            for i in self.nbhd:
-                for j in self.grid:
+            for i, in self.nbhd:
+                for j, in self.grid:
                     q = (j+i,)
                     if q in tempgrid:
                         tempgrid[q] += 1
