@@ -22,7 +22,7 @@ A simulation of what I like to call a "trivalent" universe: one where Newton's S
 
 imnf.py
 
-A parser for IMNF (Intermediate Musical Notation Format), a type of ASCII musical notation that I developed to be easily human-readable as well as computer-parsable. Complete specs for IMNF exist only in my head, however. Plays a round that I wrote a while ago as a default. Probably the worst-commented thing I have in here as well as the worst coding style.
+A parser for IMNF (Intermediate Musical Notation Format), a type of ASCII musical notation that I developed to be easily human-readable as well as computer-parsable. Complete specs for IMNF exist only in my head, however. Plays a round that I wrote a while ago as a default. It's fairly incomplete (I'm still working on it), and probably the worst-commented thing I have in here as well as the worst coding style.
 
 
 osrc.cpp
