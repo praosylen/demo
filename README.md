@@ -7,6 +7,8 @@ casim.py
 
 A general-purpose cellular automaton simulator in pure Python. Supports non-weighted outer-totalistic rules on hyperrectangular grids of all dimensionalities and all neighborhoods, as well as 2-dimensional Moore-neighborhood isotropic non-totalistic rules. See msrc.py for a demonstration.
 
+Also includes casim.py.ipynb, a more in-depth explanation of casim's capabilities.
+
 
 msrc.py
 
