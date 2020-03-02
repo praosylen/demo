@@ -1,5 +1,5 @@
 # demo
-Contains various example programs I've written.
+Contains various example programs I've written. Most are obsolete at this point.
 
 Contents:
 
